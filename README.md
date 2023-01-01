@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - TIcket Cycles</h1>
+This tutorial outlines the cycles of a help desk ticket from the User to the agent resolvinge the ticket.<br />
 
 
 <h2>Video Demonstration</h2>
